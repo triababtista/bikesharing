@@ -55,6 +55,12 @@ To run this dashboard locally, you will need Python 3.x and the necessary librar
 
    You should see the interactive dashboard where you can select user types, view hourly and seasonal bike rental trends, and more.
 
+7. **Streamlit Cloud**
+
+   If it does not work, you can access the dashboard through this link:
+
+   https://bikesharing-nkmnvxcjp3wbjueeu8fcqe.streamlit.app/
+
 ## Project Structure
 
 - `dashboard.py`: The main Streamlit application script.
