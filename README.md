@@ -44,7 +44,7 @@ To run this dashboard locally, you will need Python 3.x and the necessary librar
 5. **Run the Streamlit Dashboard**:
    To launch the dashboard, run the following command:
    ```bash
-   streamlit run app.py
+   streamlit run dashboard.py
    ```
 
 6. **Access the Dashboard**:
